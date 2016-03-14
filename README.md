@@ -42,7 +42,7 @@ alphabet.list()
 ```
 
 ```
-## [1] "nato"    "swedish"
+## [1] "armynavy" "nato"     "swedish"
 ```
 
 ## Sources
