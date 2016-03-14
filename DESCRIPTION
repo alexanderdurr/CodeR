@@ -1,11 +1,11 @@
 Package: CodeR
-Title: What the Package Does (one line, title case)
+Title: Get lists of codewords
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: 
+Authors@R: person("Martin", "Isaksson", email = "martin@martisak.se", role = c("aut", "cre"))
+Description: Get lists of codewords based on for example phonetic alphabets.
+Depends:
     R (>= 3.2.3)
-License: What license is it under?
+License: MIT
 LazyData: true
 RoxygenNote: 5.0.1
 Suggests: knitr,

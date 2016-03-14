@@ -1,5 +1,6 @@
 # CodeR
-An R package to generate a list of codewords
+
+An R package to generate a list of codewords based on phonetic alphabets.
 
 ## Installation
 
@@ -12,6 +13,7 @@ devtools::install_github("martisak/CodeR")
 
 ~~~~{R}
 nato <- alphabet("nato")
+alpha <- alphabet()[as.numeric(charToRaw('A'))-64]
 ~~~~
 
 ## Supported lists
