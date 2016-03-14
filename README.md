@@ -27,6 +27,17 @@ alphabet("nato")
 ```
 
 ```r
+alphabet("armynavy")
+```
+
+```
+##  [1] "Able"    "Baker"   "Charlie" "Dog"     "Easy"    "Fox"     "George" 
+##  [8] "How"     "Item"    "Jig"     "King"    "Love"    "Mike"    "Nan"    
+## [15] "Oboe"    "Peter"   "Queen"   "Roger"   "Sail"    "Tare"    "Uncle"  
+## [22] "Victor"  "William" "X-ray"   "Yoke"    "Zebra"
+```
+
+```r
 alphabet()[as.numeric(charToRaw('A'))-64]
 ```
 
