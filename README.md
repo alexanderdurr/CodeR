@@ -8,6 +8,7 @@ An R package to generate a list of codewords based on phonetic alphabets.
 ```r
 install.packages("devtools")
 devtools::install_github("martisak/CodeR")
+library(CodeR)
 ```
 
 ## Usage
