@@ -45,4 +45,9 @@ alphabet.list()
 ## [1] "nato"    "swedish"
 ```
 
+## Sources
+
+* [Joint Army/Navy Phonetic Alphabet](https://en.wikipedia.org/wiki/Joint_Army/Navy_Phonetic_Alphabet)
+
+
 
